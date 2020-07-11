@@ -5,6 +5,8 @@ import 'package:job_finder/widgets/appBarTitle.dart';
 import 'package:job_finder/widgets/popularjobs_container.dart';
 import 'package:job_finder/widgets/recentjobstile.dart';
 
+import 'form_sheet.dart';
+
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -92,7 +94,11 @@ class HomePage extends StatelessWidget {
                         color: Colors.white,
                       ),
                       onPressed: () {
-                        //TODO add scrollable sheet
+                        showModalBottomSheet(
+                          isScrollControlled: true,
+                          context: context,
+                          builder: (context) => FormSheet(),
+                        );
                       },
                     ),
                   ),

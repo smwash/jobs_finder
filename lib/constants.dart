@@ -20,7 +20,7 @@ const kTextFieldDecoration = InputDecoration(
     ),
   ),
   enabledBorder: OutlineInputBorder(
-    borderSide: BorderSide(color: kDarkColor, width: 1.0),
+    borderSide: BorderSide(color: kDarkColor, width: 2.0),
     borderRadius: BorderRadius.all(
       Radius.circular(10.0),
     ),
