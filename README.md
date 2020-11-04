@@ -1,6 +1,6 @@
 # job_finder
 
-A new Flutter project.
+Flutter Job Finder application
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+<img src="https://user-images.githubusercontent.com/40820956/98143315-fd386480-1ed9-11eb-8a5a-0a188620a4b2.jpg" width="240" height="480">
+
+<img src="https://user-images.githubusercontent.com/40820956/98143335-045f7280-1eda-11eb-81c6-36b829fee4a5.jpg" width="240" height="480">
